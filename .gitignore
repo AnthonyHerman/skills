@@ -1,0 +1,4 @@
+.serena
+results/*
+!results/.gitkeep
+__pycache__/
